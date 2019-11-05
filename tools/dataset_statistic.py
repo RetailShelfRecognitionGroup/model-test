@@ -107,9 +107,6 @@ if __name__ == '__main__':
     plt.bar(xxlist, yylist)
     plt.show()
 
-    plt.bar(xxlist, yylist)
-    plt.show()
-
 
     fo = open('result.txt','w')
     for res in result:
